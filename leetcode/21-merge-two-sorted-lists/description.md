@@ -1,4 +1,4 @@
-### 21. Merge two sorted lists
+### 21. Merge two sorted lists (*Easy*)
 
 You are given the heads of two sorted linked lists `list1` and `list2`.
 
